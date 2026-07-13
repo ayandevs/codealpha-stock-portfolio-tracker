@@ -1,0 +1,3 @@
+Stock Name : AAPL | Price : 180$
+Stock Name : TSLA | Price : 250$
+Your total investment in stocks is : 860$

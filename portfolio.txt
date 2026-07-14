@@ -1,3 +1,10 @@
+Your Stock Portfolio Details : 
+
 Stock Name : AAPL | Price : 180$
 Stock Name : TSLA | Price : 250$
-Your total investment in stocks is : 860$
+
+you have "2" stocks of "AAPL" 
+you have "3" stocks of "TSLA" 
+
+Your total stocks quantity is : 5
+Your total investment in stocks is : 1110$

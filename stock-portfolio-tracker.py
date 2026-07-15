@@ -13,6 +13,11 @@ print("="*35)
 print("Welcome to Stock Portfolio Tracker")
 print("="*35 , "\n")
 
+for key,value in stock_prices.items() :
+    print(f"{key} : {value}")
+
+print("\n")
+
 while True :
     stock = input("Enter the stock name you have : ").upper()
 

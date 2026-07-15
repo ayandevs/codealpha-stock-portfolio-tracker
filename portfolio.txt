@@ -4,7 +4,7 @@ Stock Name : AAPL | Price : 180$
 Stock Name : TSLA | Price : 250$
 
 you have "2" stocks of "AAPL" 
-you have "3" stocks of "TSLA" 
+you have "4" stocks of "TSLA" 
 
-Your total stocks quantity is : 5
-Your total investment in stocks is : 1110$
+Your total stocks quantity is : 6
+Your total investment in stocks is : 1360$
